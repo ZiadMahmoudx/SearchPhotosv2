@@ -25,7 +25,7 @@ const SearchBar = ({ onSubmitForm }) => {
         />
         <button
           type="submit"
-          className="bg-sky-800 hover:bg-blue-900 text-white font-bold py-2 px-4"
+          className="bg-sky-800 hover:bg-sky-900 text-white font-bold py-2 px-4"
         >
           Search
         </button>
